@@ -2,7 +2,7 @@
 
 ![img](https://github.com/Sergio9815/kira-dark-ulauncher/blob/master/preview.png)
 
-A dark and minimal theme for Ulauncher. 
+A dark and minimal theme for [Ulauncher](https://ulauncher.io/). 
 
 #### Install theme
 
