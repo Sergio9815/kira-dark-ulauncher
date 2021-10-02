@@ -1,6 +1,6 @@
 # Kira dark Theme
 
-![img](https://github.com/Sergio9815/kira-dark-ulauncher/blob/master/preview.png)
+![img](https://github.com/Sergio9815/kira-dark-ulauncher/blob/master/previewImage.png)
 
 A dark and minimal theme for [Ulauncher](https://ulauncher.io/). 
 
