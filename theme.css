@@ -7,7 +7,7 @@
 /**
  * App Window
  */
-@define-color bg_color @dk_grey;
+@define-color bg_color rgba(28,28,31,.9);
 @define-color window_bg @bg_color;
 @define-color window_border_color @lg_blue;
 @define-color prefs_backgroud @lg_white;
@@ -24,13 +24,13 @@
   * Result items
   */
 @define-color item_name @lg_white;
-@define-color item_text @lg_grey;
+@define-color item_text #fff;
 @define-color item_box_selected @lg_blue;
 @define-color item_text_selected @dk_grey;
 @define-color item_name_selected @dk_grey;
 @define-color item_shortcut_color @lg_white;
 @define-color item_shortcut_shadow darker(@bg_color);
-@define-color item_shortcut_color_sel @lg_white;
+@define-color item_shortcut_color_sel @dk_grey;
 @define-color item_shortcut_shadow_sel darker(@item_box_selected);
 
 .app {
